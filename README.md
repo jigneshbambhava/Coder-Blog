@@ -13,3 +13,18 @@ Welcome to Coder Blog, a repository dedicated to exploring the latest trends and
   content: 'Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction...'
 }
 
+Conceptual Guides: 
+Access conceptual articles and discussions that explore theoretical foundations and concepts across various topics.
+
+
+Authors
+@JigneshBambhava
+
+🚀 About Me
+Hi👋, I'm Jignesh. Student at L.D college of engineering.
+
+🛠 Skills
+React.js, Javascript, HTML, CSS,PHP,MYSQL,C, C++, Java
+
+Support
+For support, email jigneshbambhava123@gmail.com.
