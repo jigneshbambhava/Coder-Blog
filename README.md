@@ -5,6 +5,7 @@ Welcome to Coder Blog, a repository dedicated to exploring the latest trends and
 #EXAMPLE BLOG POST
 
 {
+
   title: 'Understanding the Basics of AI',
   
   author: 'Jane Doe',
