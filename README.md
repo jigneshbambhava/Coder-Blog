@@ -6,11 +6,17 @@ Welcome to Coder Blog, a repository dedicated to exploring the latest trends and
 
 {
   title: 'Understanding the Basics of AI',
+  
   author: 'Jane Doe',
+  
   date: '2023-05-01',
+  
   category: 'AI',
+  
   tags: ['AI', 'Machine Learning', 'Technology', 'Future'],
+  
   content: 'Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction...'
+  
 }
 
 Conceptual Guides: 
